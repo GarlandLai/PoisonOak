@@ -255,7 +255,7 @@ div .game3 {
 
 .jumbotron {
 	font-family: 'Alfa Slab One', cursive;
-	background-image: url('../img/mainbg.jpg');
+	background-image: url('../img/mainbg1.jpg');
 	background-size: cover;
 	height: 500px;
 	margin-top: 7px;
@@ -277,7 +277,7 @@ div .game3 {
 }
 
 .container-treatment {
-	background-image: url('../img/mainbg.jpg');
+	background-image: url('../img/mainbg1.jpg');
 	background-size: cover;
 }
 
